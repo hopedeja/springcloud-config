@@ -10,4 +10,4 @@ spring.datasource.username: root
 spring.application.name: user-service
 
 # 测试
-test.hello: ganle
+test.hello: ganle-aaa
