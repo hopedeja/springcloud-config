@@ -9,3 +9,5 @@ spring.datasource.username: root
 # 配置应用名称
 spring.application.name: user-service
 
+# 测试
+test.hello: ganle
